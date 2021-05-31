@@ -1,0 +1,6 @@
+E:\softwere\C#\Mtrix App\Mtrix App\bin\Debug\Mtrix App.exe
+E:\softwere\C#\Mtrix App\Mtrix App\bin\Debug\Mtrix App.pdb
+E:\softwere\C#\Mtrix App\Mtrix App\obj\Debug\Mtrix App.csprojAssemblyReference.cache
+E:\softwere\C#\Mtrix App\Mtrix App\obj\Debug\Mtrix App.csproj.CoreCompileInputs.cache
+E:\softwere\C#\Mtrix App\Mtrix App\obj\Debug\Mtrix App.exe
+E:\softwere\C#\Mtrix App\Mtrix App\obj\Debug\Mtrix App.pdb
