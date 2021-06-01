@@ -1,0 +1,6 @@
+E:\softwere\C#\Matrix 2 App\Matrix 2 App\bin\Debug\Matrix 2 App.exe
+E:\softwere\C#\Matrix 2 App\Matrix 2 App\bin\Debug\Matrix 2 App.pdb
+E:\softwere\C#\Matrix 2 App\Matrix 2 App\obj\Debug\Matrix 2 App.csprojAssemblyReference.cache
+E:\softwere\C#\Matrix 2 App\Matrix 2 App\obj\Debug\Matrix 2 App.csproj.CoreCompileInputs.cache
+E:\softwere\C#\Matrix 2 App\Matrix 2 App\obj\Debug\Matrix 2 App.exe
+E:\softwere\C#\Matrix 2 App\Matrix 2 App\obj\Debug\Matrix 2 App.pdb
